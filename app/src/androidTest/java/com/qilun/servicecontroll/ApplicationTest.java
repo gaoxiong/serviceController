@@ -1,4 +1,4 @@
-package com.qilun.servicecontroll;
+package com.qilun.ServiceControll;
 
 import android.app.Application;
 import android.test.ApplicationTestCase;
